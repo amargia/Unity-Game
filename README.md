@@ -4,7 +4,7 @@
 It's a game where you have to retrieve the golden chocolate bar from the evil guards who took it.
 
 # Controls
-* Arrows (or A, W, S, D) and Q, E - Move
+* Arrows (or A, W, S, D) and Q, E (turn) - Move
 * K - Shoot
 * I - Inventory
 * C - Change cameras
